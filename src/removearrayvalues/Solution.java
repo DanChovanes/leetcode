@@ -6,6 +6,8 @@ package removearrayvalues;
 
 // i.e. {1, 2, 2, 2, 3, 4, 5, 6}, 2 => {1, 3, 4, 5, 6, 2, 2, 2 }, length=5
 
+// int[] arr = {3,2,2,3}; //-1, 10, 3, 6, 9, 11, 4, 3, 17, 3, 22
+
 public class Solution {
     public static void main(String[] args) {
         int[] arr = {1, 2, 2, 2, 3, 4, 5, 6};
